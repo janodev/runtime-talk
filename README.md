@@ -1,4 +1,4 @@
-This keynote file uses the following commercial fonts that I can't include here.
+The keynote file uses commercial fonts that I can't include here:
 
 * Carnation - Ethan Dunham, Fonthead Design
 * Courier - Bitstream Inc and Apple Inc
